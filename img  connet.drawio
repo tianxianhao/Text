@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-30T13:28:20.523Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="OXvDvoABp4B13osZdHR3" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-01T02:09:06.536Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="qfiCpQjbjSWzw2oTnS2T" version="14.4.9" type="github">
   <diagram id="CARD7Sbv0hbfWBWJ-aAk" name="Page-1">
     <mxGraphModel dx="1006" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -188,8 +188,8 @@
         <mxCell id="IS2gL23mLvxnRfCjPbjm-76" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="639" y="559" width="72" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="IS2gL23mLvxnRfCjPbjm-88" value="MVD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="632" y="578" width="40" height="20" as="geometry" />
+        <mxCell id="IS2gL23mLvxnRfCjPbjm-88" value="MVD bits" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="624.5" y="580" width="62" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IS2gL23mLvxnRfCjPbjm-74" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="620" width="70" height="20" as="geometry" />
