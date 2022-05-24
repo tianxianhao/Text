@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-20T08:41:14.681Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="ohn72UCe2wEnHN_mMtWN" version="18.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-24T02:00:10.025Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="uaPi0G5OyLI59pocr4O6" version="18.0.1" type="github" pages="4">
   <diagram id="tHQtDcuUV_E5mB_fC9Bn" name="Page-1">
-    <mxGraphModel dx="2347" dy="1152" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1126" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -276,6 +276,279 @@
             <mxPoint x="769.5799999999999" y="390.0000000000001" as="sourcePoint" />
             <mxPoint x="769.5799999999999" y="430.0000000000001" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="YMRxum8oy3oUaemsCFLP" name="Page-2">
+    <mxGraphModel dx="1408" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Jt3rYeA1jcyN9FEt2JDZ-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Jt3rYeA1jcyN9FEt2JDZ-2" value="科学问题" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="350" y="40" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jt3rYeA1jcyN9FEt2JDZ-3" value="TB级多媒体大数据的加密时间开销过大" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;arcSize=4;spacing=2;spacingTop=2;spacingLeft=4;spacingBottom=2;spacingRight=4;" vertex="1" parent="1">
+          <mxGeometry x="180" y="80" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Jt3rYeA1jcyN9FEt2JDZ-4" value="其他课题组..." style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="330" y="80" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Jt3rYeA1jcyN9FEt2JDZ-5" value="其他课题组..." style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="480" y="80" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Jt3rYeA1jcyN9FEt2JDZ-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="480" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="Jt3rYeA1jcyN9FEt2JDZ-7" value="解决" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="410" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jt3rYeA1jcyN9FEt2JDZ-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=20;fillColor=#828282;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.5" y="200" as="sourcePoint" />
+            <mxPoint x="399.5" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jt3rYeA1jcyN9FEt2JDZ-9" value="研究内容" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="350" y="200" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jt3rYeA1jcyN9FEt2JDZ-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="170" y="230" width="460" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="PwyWrALCh2oeHHBFjp2D" name="Page-3">
+    <mxGraphModel dx="971" dy="477" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CoHOOIkUioIxWfpFex8b-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="555" y="80" width="100" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="1upuq-6mRdPdltSRbGBd-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="120" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="1upuq-6mRdPdltSRbGBd-2" value="特点和需求" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="85" y="80" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1upuq-6mRdPdltSRbGBd-5" value="大数据的加密速度缓慢" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;arcSize=4;fontColor=#CC6600;" vertex="1" parent="1">
+          <mxGeometry x="87.5" y="120" width="105" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1upuq-6mRdPdltSRbGBd-6" value="差异化的隐私保护需求" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;arcSize=4;fontColor=#CC6600;" vertex="1" parent="1">
+          <mxGeometry x="87.5" y="200" width="105" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1upuq-6mRdPdltSRbGBd-7" value="加密数据的应用局限性" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;arcSize=4;fontColor=#CC6600;" vertex="1" parent="1">
+          <mxGeometry x="87.5" y="280" width="105" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1upuq-6mRdPdltSRbGBd-11" value="加密算法密文膨胀过大" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;arcSize=4;fontColor=#CC6600;" vertex="1" parent="1">
+          <mxGeometry x="87.5" y="360" width="105" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1upuq-6mRdPdltSRbGBd-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;arcSize=3;" vertex="1" parent="1">
+          <mxGeometry x="230" y="80" width="295" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="CoHOOIkUioIxWfpFex8b-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="300" y="85" width="220" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="CoHOOIkUioIxWfpFex8b-6" value="研究内容1：面向TB级数据的轻量级音视频加密方案" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="310" y="90" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6z_NZQ6-wIO_RhvLPQnK-1" value="目标" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="557.49" y="80" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6z_NZQ6-wIO_RhvLPQnK-2" value="高实时" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;arcSize=4;fontColor=#006600;" vertex="1" parent="1">
+          <mxGeometry x="561.86" y="120" width="86.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6z_NZQ6-wIO_RhvLPQnK-6" value="数据可用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;arcSize=4;fontColor=#006600;" vertex="1" parent="1">
+          <mxGeometry x="561.88" y="276" width="86.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6z_NZQ6-wIO_RhvLPQnK-8" value="零膨胀" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;arcSize=4;fontColor=#006600;" vertex="1" parent="1">
+          <mxGeometry x="561.86" y="383" width="86.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6z_NZQ6-wIO_RhvLPQnK-9" value="&lt;span style=&quot;&quot;&gt;低消耗&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;arcSize=4;fontColor=#006600;" vertex="1" parent="1">
+          <mxGeometry x="561.88" y="171" width="86.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jc5RP8BOrU1Rsn6dTOS6-1" value="安全共享" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;arcSize=4;fontColor=#006600;" vertex="1" parent="1">
+          <mxGeometry x="561.88" y="330" width="86.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6z_NZQ6-wIO_RhvLPQnK-7" value="&lt;span style=&quot;&quot;&gt;分级保护&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;arcSize=4;fontColor=#006600;" vertex="1" parent="1">
+          <mxGeometry x="561.86" y="223" width="86.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CRmEMLYr9LDI3Fa4tNvB-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="305" y="135" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CRmEMLYr9LDI3Fa4tNvB-5" value="方法" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="325" y="135" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CRmEMLYr9LDI3Fa4tNvB-6" value="选择性加密" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;arcSize=4;fontColor=#006600;" vertex="1" parent="1">
+          <mxGeometry x="310" y="155" width="80" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="CRmEMLYr9LDI3Fa4tNvB-7" value="面向码流" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;arcSize=4;fontColor=#006600;" vertex="1" parent="1">
+          <mxGeometry x="310" y="188" width="80" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="CRmEMLYr9LDI3Fa4tNvB-8" value="快速高效的音视频加密算法" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;arcSize=4;spacingTop=0;spacingLeft=3;spacingRight=2;fontColor=#004C99;" vertex="1" parent="1">
+          <mxGeometry x="400" y="135" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Swu1EQtBOpuKBZUAzAZ8-1" value="格式兼容" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;arcSize=4;fontColor=#006600;" vertex="1" parent="1">
+          <mxGeometry x="310" y="221.5" width="80" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="Swu1EQtBOpuKBZUAzAZ8-2" value="应用特征保留" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;arcSize=4;fontColor=#4C0099;" vertex="1" parent="1">
+          <mxGeometry x="480" y="180.5" width="35" height="74.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Swu1EQtBOpuKBZUAzAZ8-3" value="随机异或加密" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;arcSize=4;horizontal=1;fontColor=#4C0099;" vertex="1" parent="1">
+          <mxGeometry x="400" y="180.5" width="35" height="74.5" as="geometry" />
+        </mxCell>
+        <mxCell id="zeVl-a5sGnVvCnWM0w9o-1" value="结合压缩格式" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;arcSize=4;fontColor=#4C0099;" vertex="1" parent="1">
+          <mxGeometry x="440" y="180.5" width="35" height="74.5" as="geometry" />
+        </mxCell>
+        <mxCell id="hmyi7BelBwP5L1RCzUFu-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="300" y="285" width="220" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="hmyi7BelBwP5L1RCzUFu-2" value="研究内容2：分级保护的多媒体数据安全共享技术" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="300" y="290" width="215" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hmyi7BelBwP5L1RCzUFu-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="305" y="333" width="90" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="hmyi7BelBwP5L1RCzUFu-4" value="方法" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="325" y="333" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hmyi7BelBwP5L1RCzUFu-5" value="水印嵌入" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;arcSize=4;fontColor=#006600;" vertex="1" parent="1">
+          <mxGeometry x="310" y="353" width="80" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="hmyi7BelBwP5L1RCzUFu-6" value="信息隐藏" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;arcSize=4;fontColor=#006600;" vertex="1" parent="1">
+          <mxGeometry x="310" y="386" width="80" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="hmyi7BelBwP5L1RCzUFu-7" value="分级保护模型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;arcSize=4;spacingTop=0;spacingLeft=2;spacingRight=2;fontColor=#004C99;" vertex="1" parent="1">
+          <mxGeometry x="400" y="333" width="115" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="hmyi7BelBwP5L1RCzUFu-10" value="视频加密" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;arcSize=4;horizontal=1;fontColor=#330066;" vertex="1" parent="1">
+          <mxGeometry x="400" y="375" width="35" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="b_lIly0BaIGu2-zfWtQW-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=20;fillColor=#828282;endWidth=8.6464;endSize=2.8127999999999997;width=12.96;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="377.15999999999997" y="263" as="sourcePoint" />
+            <mxPoint x="377.15999999999997" y="283" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b_lIly0BaIGu2-zfWtQW-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=20;fillColor=#828282;endWidth=8.6464;endSize=2.8127999999999997;width=12.96;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="263" as="sourcePoint" />
+            <mxPoint x="550" y="263" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b_lIly0BaIGu2-zfWtQW-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=20;fillColor=#828282;endWidth=8.6464;endSize=2.8127999999999997;width=12.96;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="205" y="259.43" as="sourcePoint" />
+            <mxPoint x="225" y="259.43" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VOmYvKhq0E0XC6HWVrh4-1" value="音频加密" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;arcSize=4;horizontal=1;fontColor=#330066;" vertex="1" parent="1">
+          <mxGeometry x="440" y="375" width="35" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="VOmYvKhq0E0XC6HWVrh4-2" value="共享保护" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;arcSize=4;horizontal=1;fontColor=#330066;" vertex="1" parent="1">
+          <mxGeometry x="480" y="375" width="35" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="8_t_Bc0C-KQZV8CnkMKW-1" value="科学问题1：&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#660000&quot;&gt;音视频大数据的高效隐私保护机制&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="235" y="85" width="60" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="8_t_Bc0C-KQZV8CnkMKW-2" value="科学问题2：&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#660000&quot;&gt;差异化分级隐私保护机制&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="235" y="285" width="60" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="1w1tHxffOUbdVuUamTUC" name="Page-4">
+    <mxGraphModel dx="670" dy="329" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="g8lty7sbkJkkMqlrwEo4-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="550" y="215" width="375" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="g8lty7sbkJkkMqlrwEo4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;fillColor=#000000;" edge="1" parent="1" source="g8lty7sbkJkkMqlrwEo4-3" target="g8lty7sbkJkkMqlrwEo4-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g8lty7sbkJkkMqlrwEo4-3" value="分级保护的轻量化&lt;br&gt;加密" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="600" y="295" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g8lty7sbkJkkMqlrwEo4-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=14;fontColor=#000000;startArrow=none;fillColor=#828282;startFill=0;" edge="1" parent="1" source="g8lty7sbkJkkMqlrwEo4-4" target="g8lty7sbkJkkMqlrwEo4-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g8lty7sbkJkkMqlrwEo4-4" value="加密数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="675" y="285" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g8lty7sbkJkkMqlrwEo4-5" value="数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="555" y="295" width="41" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g8lty7sbkJkkMqlrwEo4-6" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fillColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="g8lty7sbkJkkMqlrwEo4-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="555" y="325" as="sourcePoint" />
+            <mxPoint x="590" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g8lty7sbkJkkMqlrwEo4-7" value="共享处理结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="880" y="365" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g8lty7sbkJkkMqlrwEo4-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fillColor=#000000;" edge="1" parent="1" source="g8lty7sbkJkkMqlrwEo4-9" target="g8lty7sbkJkkMqlrwEo4-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g8lty7sbkJkkMqlrwEo4-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.145;exitY=1;exitDx=0;exitDy=-4.35;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;startArrow=none;startFill=0;fillColor=#828282;" edge="1" parent="1" source="g8lty7sbkJkkMqlrwEo4-9" target="g8lty7sbkJkkMqlrwEo4-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g8lty7sbkJkkMqlrwEo4-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.855;exitY=1;exitDx=0;exitDy=-4.35;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;startArrow=none;startFill=0;fillColor=#828282;" edge="1" parent="1" source="g8lty7sbkJkkMqlrwEo4-9" target="g8lty7sbkJkkMqlrwEo4-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g8lty7sbkJkkMqlrwEo4-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;startArrow=none;startFill=0;fillColor=#828282;" edge="1" parent="1" source="g8lty7sbkJkkMqlrwEo4-9" target="g8lty7sbkJkkMqlrwEo4-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g8lty7sbkJkkMqlrwEo4-9" value="云存储" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="725" y="290" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="g8lty7sbkJkkMqlrwEo4-10" value="加密域特征" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="785" y="285" width="52.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g8lty7sbkJkkMqlrwEo4-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;startArrow=none;startFill=0;fillColor=#828282;" edge="1" parent="1" source="g8lty7sbkJkkMqlrwEo4-11" target="g8lty7sbkJkkMqlrwEo4-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g8lty7sbkJkkMqlrwEo4-11" value="&lt;span style=&quot;&quot;&gt;隐私保护的处理分析技术&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="845" y="295" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g8lty7sbkJkkMqlrwEo4-16" value="共享&lt;br&gt;保护" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="810" y="385" width="50" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="g8lty7sbkJkkMqlrwEo4-18" value="发布&lt;br&gt;审计" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="650" y="385" width="50" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="g8lty7sbkJkkMqlrwEo4-20" value="验证&lt;br&gt;查询" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="730" y="385" width="50" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="g8lty7sbkJkkMqlrwEo4-22" value="系统模型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="815" y="225" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g8lty7sbkJkkMqlrwEo4-25" value="&lt;span style=&quot;&quot;&gt;安全评价&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="235" width="70" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="g8lty7sbkJkkMqlrwEo4-27" value="课题四" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#FF00FF;" vertex="1" parent="1">
+          <mxGeometry x="670" y="215" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g8lty7sbkJkkMqlrwEo4-28" value="课题一" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#FF00FF;" vertex="1" parent="1">
+          <mxGeometry x="610" y="275" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g8lty7sbkJkkMqlrwEo4-29" value="课题二" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#FF00FF;" vertex="1" parent="1">
+          <mxGeometry x="730" y="420" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g8lty7sbkJkkMqlrwEo4-33" value="课题一、三" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#FF00FF;" vertex="1" parent="1">
+          <mxGeometry x="802.5" y="420" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g8lty7sbkJkkMqlrwEo4-34" value="课题三" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#FF00FF;" vertex="1" parent="1">
+          <mxGeometry x="650" y="420" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g8lty7sbkJkkMqlrwEo4-35" value="课题五" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#FF00FF;" vertex="1" parent="1">
+          <mxGeometry x="855" y="275" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
